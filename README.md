@@ -1,4 +1,4 @@
-# cs50FinalProject: MoodCy
+# cs50FinalProject Title: MoodCy
 
 MoodCy is a web-based app that allows users to create an account and easily track daily moods
 for an extended period of time in order to identify if there is a cyclical nature to moods 
